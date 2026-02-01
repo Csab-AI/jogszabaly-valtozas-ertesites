@@ -45,7 +45,7 @@ Magyar nyelven elérhető AI-alapú jogszabályváltozás-értesítő rendszer p
 tartalmat, és a felhasználó által meghatározott szempontok alapján értesítést küld
 a releváns változásokról.
 
-👉 https://observio.app/jogszabaly-valtozas-ertesites.html
+👉 [Részletes leírás az Observio oldalon](https://observio.app/jogszabaly-valtozas-ertesites.html)
 
 ---
 
