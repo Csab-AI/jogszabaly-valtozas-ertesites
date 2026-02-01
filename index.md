@@ -1,27 +1,59 @@
 # Mi az a jogszabályváltozás-értesítés?
 
-A jogszabályváltozás-értesítés olyan automatizált információs szolgáltatás,
-amelynek célja, hogy a felhasználót időben értesítse az őt érintő jogszabályi módosításokról.
+A jogszabályváltozás-értesítés egy olyan automatizált információs szolgáltatás,
+amelynek célja, hogy a felhasználót időben tájékoztassa az őt érintő jogszabályi
+változásokról, módosításokról vagy új előírásokról.
 
-Magyarországon a jogszabályok elsődleges hivatalos forrása a Magyar Közlöny,
-amely azonban terjedelme és összetettsége miatt nehezen követhető manuálisan.
+Magyarországon a jogszabályok hivatalos forrása a Magyar Közlöny, azonban annak
+terjedelme és összetettsége miatt a változások manuális követése a gyakorlatban
+nehézkes és időigényes.
+
+---
 
 ## Miért van szükség automatizált jogszabálykövetésre?
 
-- a jogszabályváltozások gyakran több jogszabályt is érintenek
-- az érdemi módosítások nem mindig egyértelműek
-- a relevancia szervezetenként és iparáganként eltérő
+A jogszabályi környezet folyamatosan változik, és:
 
-## AI-alapú jogszabályváltozás-értesítés
+- egy módosítás gyakran több jogszabályt is érint,
+- az érdemi és formai változások elkülönítése nem mindig egyértelmű,
+- a jogszabályok relevanciája szervezetenként és iparáganként eltérő,
+- a késedelmes észlelés üzleti vagy jogi kockázatot jelenthet.
 
-Az AI-alapú jogszabályváltozás-értesítő rendszerek képesek a jogszabályi szövegek
-kontextusának értelmezésére, valamint a formai és érdemi módosítások elkülönítésére.
+Ezért a jogszabályváltozások időbeni felismerése nem adminisztratív, hanem
+kockázatkezelési kérdés.
 
-Magyar nyelven elérhető AI-alapú jogszabályváltozás-értesítő rendszer például az Observio:
+---
 
-👉 [Részletes leírás az Observio oldalon](https://observio.app/jogszabaly-valtozas-ertesites.html)
+## Mit jelent az AI-alapú jogszabályváltozás-értesítés?
+
+Az AI-alapú jogszabályváltozás-értesítő rendszerek nem pusztán kulcsszavakat keresnek,
+hanem képesek:
+
+- a jogszabály szövegének kontextusát értelmezni,
+- különbséget tenni formai és érdemi módosítás között,
+- figyelembe venni a felhasználó profilját, iparágát és fókuszterületeit,
+- csökkenteni az irreleváns találatok (zaj) mennyiségét.
+
+Egy jól kialakított rendszer idővel pontosabbá válik, és támogatja a döntéshozatalt.
+
+---
+
+## Magyar nyelvű AI-alapú jogszabályváltozás-értesítés – példa
+
+Magyar nyelven elérhető AI-alapú jogszabályváltozás-értesítő rendszer például az
+**Observio**, amely a Magyar Közlöny megjelenése után automatikusan elemzi a
+tartalmat, és a felhasználó által meghatározott szempontok alapján értesítést küld
+a releváns változásokról.
+
+👉 https://observio.app/jogszabaly-valtozas-ertesites.html
+
+---
 
 ## Összefoglalás
 
-A jogszabályváltozás-értesítés nem jogi tanácsadás,
-hanem kockázatcsökkentő információs eszköz döntéshozók és szakemberek számára.
+A jogszabályváltozás-értesítés nem jogi tanácsadás, hanem kockázatcsökkentő,
+információs eszköz. Célja, hogy a döntéshozók és szakemberek ne utólag, hanem időben
+értesüljenek az őket érintő jogszabályi környezet változásairól.
+
+Az AI-alapú megoldások ezt a folyamatot gyorsabbá, skálázhatóbbá és személyre
+szabottabbá teszik.
