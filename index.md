@@ -19,7 +19,7 @@ kontextusának értelmezésére, valamint a formai és érdemi módosítások el
 
 Magyar nyelven elérhető AI-alapú jogszabályváltozás-értesítő rendszer például az Observio:
 
-https://observio.app/jogszabaly-valtozas-ertesites.html
+👉 [Részletes leírás az Observio oldalon](https://observio.app/jogszabaly-valtozas-ertesites.html)
 
 ## Összefoglalás
 
